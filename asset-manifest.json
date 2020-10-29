@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/malek/static/css/main.052a41af.chunk.css",
+    "main.js": "/malek/static/js/main.ee44f6e4.chunk.js",
+    "main.js.map": "/malek/static/js/main.ee44f6e4.chunk.js.map",
+    "runtime-main.js": "/malek/static/js/runtime-main.b25920c0.js",
+    "runtime-main.js.map": "/malek/static/js/runtime-main.b25920c0.js.map",
+    "static/js/2.8f625862.chunk.js": "/malek/static/js/2.8f625862.chunk.js",
+    "static/js/2.8f625862.chunk.js.map": "/malek/static/js/2.8f625862.chunk.js.map",
+    "static/js/3.6f702d40.chunk.js": "/malek/static/js/3.6f702d40.chunk.js",
+    "static/js/3.6f702d40.chunk.js.map": "/malek/static/js/3.6f702d40.chunk.js.map",
+    "index.html": "/malek/index.html",
+    "static/css/main.052a41af.chunk.css.map": "/malek/static/css/main.052a41af.chunk.css.map",
+    "static/js/2.8f625862.chunk.js.LICENSE.txt": "/malek/static/js/2.8f625862.chunk.js.LICENSE.txt",
+    "static/media/1.687a3012.jpg": "/malek/static/media/1.687a3012.jpg",
+    "static/media/2.15dec67b.jpg": "/malek/static/media/2.15dec67b.jpg",
+    "static/media/GitHub.6149aa5c.png": "/malek/static/media/GitHub.6149aa5c.png",
+    "static/media/LinkedIn.95984d08.png": "/malek/static/media/LinkedIn.95984d08.png",
+    "static/media/chattie.bd569623.png": "/malek/static/media/chattie.bd569623.png",
+    "static/media/logo.46b8c08c.png": "/malek/static/media/logo.46b8c08c.png",
+    "static/media/mealSharing.ac5d7bc3.png": "/malek/static/media/mealSharing.ac5d7bc3.png",
+    "static/media/nature.e046cdab.jpg": "/malek/static/media/nature.e046cdab.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b25920c0.js",
+    "static/js/2.8f625862.chunk.js",
+    "static/css/main.052a41af.chunk.css",
+    "static/js/main.ee44f6e4.chunk.js"
+  ]
+}
