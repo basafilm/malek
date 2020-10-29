@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/malek/static/css/main.2c23b665.chunk.css",
+    "main.css": "/malek/static/css/main.c4148d20.chunk.css",
     "main.js": "/malek/static/js/main.a303f7d4.chunk.js",
     "main.js.map": "/malek/static/js/main.a303f7d4.chunk.js.map",
     "runtime-main.js": "/malek/static/js/runtime-main.b25920c0.js",
@@ -10,7 +10,7 @@
     "static/js/3.6f702d40.chunk.js": "/malek/static/js/3.6f702d40.chunk.js",
     "static/js/3.6f702d40.chunk.js.map": "/malek/static/js/3.6f702d40.chunk.js.map",
     "index.html": "/malek/index.html",
-    "static/css/main.2c23b665.chunk.css.map": "/malek/static/css/main.2c23b665.chunk.css.map",
+    "static/css/main.c4148d20.chunk.css.map": "/malek/static/css/main.c4148d20.chunk.css.map",
     "static/js/2.8f625862.chunk.js.LICENSE.txt": "/malek/static/js/2.8f625862.chunk.js.LICENSE.txt",
     "static/media/1.687a3012.jpg": "/malek/static/media/1.687a3012.jpg",
     "static/media/2.15dec67b.jpg": "/malek/static/media/2.15dec67b.jpg",
@@ -24,7 +24,7 @@
   "entrypoints": [
     "static/js/runtime-main.b25920c0.js",
     "static/js/2.8f625862.chunk.js",
-    "static/css/main.2c23b665.chunk.css",
+    "static/css/main.c4148d20.chunk.css",
     "static/js/main.a303f7d4.chunk.js"
   ]
 }
