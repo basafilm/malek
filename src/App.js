@@ -14,9 +14,34 @@ function App() {
     <div class="container bg-dark text-white">
       <Header className="header" />
       <div className="nav">
-        <a href="#about">About</a>
-        <a href="#web">Web</a>
-        <a href="#movie">Movie</a>
+        <a
+          class="btn btn-primary"
+          data-toggle="collapse"
+          href="#about"
+          role="button"
+          aria-expanded="false"
+          aria-controls="collapseExample"
+        >
+          About
+        </a>
+        <a
+          class="btn btn-primary"
+          href="#web"
+          role="button"
+          aria-expanded="false"
+          aria-controls="collapseExample"
+        >
+          Web
+        </a>
+        <a
+          class="btn btn-primary"
+          href="#movie"
+          role="button"
+          aria-expanded="false"
+          aria-controls="collapseExample"
+        >
+          Movie
+        </a>
       </div>
 
       <Home className="home" />

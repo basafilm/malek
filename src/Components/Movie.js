@@ -3,9 +3,9 @@ import React from "react";
 function Movie() {
   return (
     <div className="movie-countainer">
-      <h1>MOVIE PROJECTS:</h1>
+      <h5>MOVIE PROJECTS:</h5>
       <div className="movie-text">
-        <h3>Awards: </h3>
+        <h6>Awards: </h6>
         <ul class="list-group ">
           <li class="list-group-item bg-dark">
             <strong className="strong">Award</strong> of second-best movie from
@@ -21,7 +21,7 @@ function Movie() {
             international team.
           </li>
         </ul>
-        <h1>Some of My Available Public Movies:</h1>
+        <h5>Some of My Available Public Movies:</h5>
       </div>
       <div className="video-container">
         <iframe

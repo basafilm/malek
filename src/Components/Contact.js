@@ -4,7 +4,7 @@ import { Container, Form, Button } from "react-bootstrap";
 export function Contact(props) {
   return (
     <Container>
-      <h1>CONTACT:</h1>
+      <h5>CONTACT:</h5>
       <Form>
         <Form.Group controlId="formBasicEmail">
           <Form.Label> Name</Form.Label>

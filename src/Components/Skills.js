@@ -55,7 +55,10 @@ export function Skills(props) {
       text: "Front End",
       sort: true,
       headerTitle: true,
-      headerStyle: { backgroundColor: "rgb(100, 100, 100)" },
+      headerStyle: {
+        backgroundColor: "rgb(100, 100, 100)",
+        borderColor: "transparent",
+      },
       style: {
         backgroundColor: "rgb(9, 94, 179)",
         borderColor: "gray",
@@ -65,17 +68,23 @@ export function Skills(props) {
       dataField: "dependencies",
       text: "Dependencies",
       sort: true,
-      headerStyle: { backgroundColor: "rgb(100, 100, 100)" },
+      headerStyle: {
+        backgroundColor: "rgb(100, 100, 100)",
+        borderColor: "transparent",
+      },
       style: {
         backgroundColor: "rgb(9, 94, 179)",
-        borderColor: "gray",
+        border: "1px solid gray",
       },
     },
     {
       dataField: "backend",
       text: "Back End",
       sort: true,
-      headerStyle: { backgroundColor: "rgb(100, 100, 100)" },
+      headerStyle: {
+        backgroundColor: "rgb(100, 100, 100)",
+        borderColor: "transparent",
+      },
       style: {
         backgroundColor: "rgb(9, 94, 179)",
         borderColor: "gray",
@@ -85,7 +94,10 @@ export function Skills(props) {
       dataField: "film",
       text: "Editing",
       sort: true,
-      headerStyle: { backgroundColor: "rgb(100, 100, 100)" },
+      headerStyle: {
+        backgroundColor: "rgb(100, 100, 100)",
+        borderColor: "transparent",
+      },
       style: {
         backgroundColor: "rgb(9, 94, 179)",
         borderColor: "gray",
@@ -93,14 +105,13 @@ export function Skills(props) {
     },
   ];
   return (
-    <Container>
-      <h1>SKILLS:</h1>
+    <Container class="pt-3">
+      <h5>SKILLS:</h5>
       <BootstrapTable
         keyField="id"
         data={products}
         columns={columns}
         hover={true}
-        loading={true}
       />
     </Container>
   );

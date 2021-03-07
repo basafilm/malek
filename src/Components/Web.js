@@ -5,7 +5,7 @@ import { Container, Row, Col } from "react-bootstrap";
 function Web() {
   return (
     <Container class="container">
-      <h1>WEB PROJECTS:</h1>
+      <h5>WEB PROJECTS:</h5>
       <Container>
         <Row className="justify-content-md-center">
           <Col xs lg="10">
@@ -29,7 +29,7 @@ function Web() {
             frontend.
           </Col>
           <Col xs lg="2">
-            <img src={Arrow} alt="arrow icon"></img>
+            <img class="mw-100" src={Arrow} alt="arrow icon"></img>
           </Col>
         </Row>
         <Row className="justify-content-md-center">
@@ -41,8 +41,11 @@ function Web() {
           </Col>
           <Col xs lg="10">
             <div class="embed-responsive embed-responsive-16by9 ">
+              <div class="spinner-border text-primary" role="status">
+                <span class="sr-only">Loading...</span>
+              </div>
               <iframe
-                class="embed-responsive-item"
+                class="embed-responsive-item "
                 title="Chattie"
                 src="http://hyf-meals.herokuapp.com/"
                 loading={true}

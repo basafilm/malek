@@ -18,7 +18,7 @@ function Home() {
       </div>
       <div className="main-image">
         <div className="malek-image">
-          <img className="image-gallery" src={Images2} alt="gallery images" />
+          <img class="mw-100" src={Images2} alt="gallery images" />
           <p className="photo-cridet">Photo By: Zaki</p>
         </div>
         <div className="main-image-text-container">
@@ -35,12 +35,12 @@ function Home() {
           </div>
         </div>
       </div>
-      <div className="section-2">
-        <div className="section2-image-cointainer">
-          <img className="section-2-image" src={Images1} alt="gallery images" />
+      <div class="container d-flex flex-row">
+        <div class="w-25 p-3">
+          <img class="mw-100" src={Images1} alt="gallery images" />
         </div>
-        <div className="section2-text-cointainer">
-          <h3>
+        <div class="w-75 p-3">
+          <p class="h5 p-3 mt-5">
             I have about twenty-years of experience in the film industry. As a
             consequence of immigration, I had to start everything from new, for
             example learning new languages and adapting to new environments. The
@@ -50,7 +50,7 @@ function Home() {
             full stack web-development at the coding school "Hack Your Future",
             Copenhagen, and had the chance to be part of "Chattie" a messaging
             app.
-          </h3>
+          </p>
         </div>
       </div>
     </div>

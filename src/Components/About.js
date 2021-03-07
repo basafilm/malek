@@ -4,7 +4,7 @@ function About() {
   return (
     <div class="container">
       <div>
-        <h1>EDUCATION:</h1>
+        <h5>EDUCATION:</h5>
         <ul class="list-group ">
           <li class="list-group-item bg-dark">
             2019 -2020 Full stack web development, Hack Your Future, Copenhagen
@@ -19,7 +19,7 @@ function About() {
         </ul>
       </div>
       <div>
-        <h1>WORK EXPERIENCE:</h1>
+        <h5>WORK EXPERIENCE:</h5>
         <ul class="list-group ">
           <li class="list-group-item bg-dark">
             2019 IFFS jury for Don Quixote award, Tromsø International Film
@@ -43,7 +43,7 @@ function About() {
       </div>
 
       <div>
-        <h1>COMMUNITY INVOLVEMENT:</h1>
+        <h5>COMMUNITY INVOLVEMENT:</h5>
         <ul class="list-group ">
           <li class="list-group-item bg-dark">
             2019 – present/ videos/ website Think Rights, Danish Forum for Human
