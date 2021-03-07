@@ -1,0 +1,53 @@
+.header-main {
+  width: 100%;
+   height: auto;
+   margin: auto;
+   display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+.header {
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+
+}
+.header-text {
+  height: auto;
+  margin: auto;
+  border-bottom: solid #e60000 3px;
+
+}
+
+.nev-container {
+  width: 50%;
+  height: 20%;
+  margin: auto;
+
+}
+.nev-link {
+  display: flex;
+  flex-direction: row;
+  margin: auto;
+}
+.nev-link a {
+  width: 20%;
+  height: auto;
+  padding: 5px;
+  text-decoration: none;
+  margin: auto;
+} 
+.logo-image {
+  width: 50%;
+  height: auto;
+  align-items: flex-start;
+}
+
+.image img {
+  max-width: 100%;
+  align-items: flex-end;
+}
+
+.logos {
+  max-width: 100%;
+}
