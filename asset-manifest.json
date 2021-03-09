@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/malek/static/css/main.59d3cbde.chunk.css",
-    "main.js": "/malek/static/js/main.04fac1b1.chunk.js",
-    "main.js.map": "/malek/static/js/main.04fac1b1.chunk.js.map",
+    "main.css": "/malek/static/css/main.c326e61d.chunk.css",
+    "main.js": "/malek/static/js/main.21fce634.chunk.js",
+    "main.js.map": "/malek/static/js/main.21fce634.chunk.js.map",
     "runtime-main.js": "/malek/static/js/runtime-main.4d379405.js",
     "runtime-main.js.map": "/malek/static/js/runtime-main.4d379405.js.map",
     "static/css/2.0b7c6edb.chunk.css": "/malek/static/css/2.0b7c6edb.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.b069d394.chunk.js.map": "/malek/static/js/3.b069d394.chunk.js.map",
     "index.html": "/malek/index.html",
     "static/css/2.0b7c6edb.chunk.css.map": "/malek/static/css/2.0b7c6edb.chunk.css.map",
-    "static/css/main.59d3cbde.chunk.css.map": "/malek/static/css/main.59d3cbde.chunk.css.map",
+    "static/css/main.c326e61d.chunk.css.map": "/malek/static/css/main.c326e61d.chunk.css.map",
     "static/js/2.d4d70cb6.chunk.js.LICENSE.txt": "/malek/static/js/2.d4d70cb6.chunk.js.LICENSE.txt",
     "static/media/1.687a3012.jpg": "/malek/static/media/1.687a3012.jpg",
     "static/media/2.15dec67b.jpg": "/malek/static/media/2.15dec67b.jpg",
@@ -26,7 +26,7 @@
     "static/js/runtime-main.4d379405.js",
     "static/css/2.0b7c6edb.chunk.css",
     "static/js/2.d4d70cb6.chunk.js",
-    "static/css/main.59d3cbde.chunk.css",
-    "static/js/main.04fac1b1.chunk.js"
+    "static/css/main.c326e61d.chunk.css",
+    "static/js/main.21fce634.chunk.js"
   ]
 }
